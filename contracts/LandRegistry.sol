@@ -1,6 +1,8 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.27;
 
+//contract address = "0x390Fab8E846cB541011F81afAaC07d58f05890f6"
+
 contract LandRegistry {
     struct Land {
         uint256 id;
